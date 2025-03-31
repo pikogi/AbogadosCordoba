@@ -10,13 +10,12 @@ export default function Home() {
     <div className="min-h-screen bg-white">
       {/* Hero Section con fondo estático simple */}
       <CssParallaxHero imageUrl="/images/Abogado1.jpg">
-        <div className="text-center max-w-3xl mx-auto text-white">
-          <h1 className="text-4xl md:text-5xl font-bold mb-6">Soluciones Legales Expertas para sus Necesidades</h1>
+        <div className="text-left max-w-1xl mx-auto text-white">
+          <h1 className="text-4xl md:text-6xl font-bold mb-6">ABOGADOS <br /> CORDOBA </h1>
           <p className="text-lg mb-8 text-gray-200">
-            Nuestros abogados experimentados están dedicados a proporcionar servicios legales excepcionales con
-            integridad y compromiso.
+            Espezializados en derecho civil, laboral y societario.
           </p>
-          <div className="flex flex-wrap justify-center gap-4">
+          <div className="flex flex-wrap justify-left gap-4">
             <a
               href="#about"
               className="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-[#1a365d] bg-white hover:bg-gray-100"
