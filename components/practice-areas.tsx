@@ -15,29 +15,10 @@ export const practiceAreas = [
     description: "Formación de empresas, contratos, fusiones y adquisiciones, y gobierno corporativo.",
   },
   {
-    id: "defensa-penal",
+    id: "derecho-laboral",
     icon: <Shield size={24} />,
     title: "Defensa Penal",
     description: "Representación para delitos menores, delitos graves y cargos penales federales.",
-  },
-  {
-    id: "derecho-inmobiliario",
-    icon: <Home size={24} />,
-    title: "Derecho Inmobiliario",
-    description:
-      "Transacciones de propiedades, disputas entre propietarios e inquilinos, y cuestiones de zonificación.",
-  },
-  {
-    id: "lesiones-personales",
-    icon: <HeartPulse size={24} />,
-    title: "Lesiones Personales",
-    description: "Representación para víctimas de accidentes, negligencia médica y muerte injusta.",
-  },
-  {
-    id: "planificacion-patrimonial",
-    icon: <FileText size={24} />,
-    title: "Planificación Patrimonial",
-    description: "Testamentos, fideicomisos, sucesiones y servicios de administración de patrimonios.",
   },
 ]
 

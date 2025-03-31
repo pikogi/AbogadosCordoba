@@ -49,11 +49,12 @@ export default function Home() {
         </div>
       </CssParallaxHero>
 
+      {/* Practice Areas */}
+      <PracticeAreas />
+
       {/* About Section */}
       <AboutSection />
 
-      {/* Practice Areas */}
-      <PracticeAreas />
 
       {/* Team Section */}
       <TeamSection />
